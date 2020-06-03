@@ -1,0 +1,17 @@
+var x = 0
+
+var t = 12[USD]
+
+var franki = 10[CHF]
+
+var v = 0[DKK]
+
+v = t + franki
+
+print(v)
+
+if( v > 10[DKK]){
+
+v = 1 [DKK] }
+
+print(v) 
